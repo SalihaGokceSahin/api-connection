@@ -65,3 +65,6 @@ C:\Users\gb141\source\repos\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInp
 C:\Users\gb141\source\repos\WebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
 C:\Users\gb141\source\repos\WebApi\WebApi\obj\Debug\WebApi.dll
 C:\Users\gb141\source\repos\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\gb141\source\repos\WebApi\WebApi\bin\System.Web.Cors.dll
+C:\Users\gb141\source\repos\WebApi\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\gb141\source\repos\WebApi\WebApi\bin\System.Web.Http.Cors.xml

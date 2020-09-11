@@ -1,0 +1,10 @@
+C:\Users\gb141\source\repos\ApiConnect_WindowsFormApp\ApiConnect_WindowsFormApp\bin\Debug\ApiConnect_WindowsFormApp.exe.config
+C:\Users\gb141\source\repos\ApiConnect_WindowsFormApp\ApiConnect_WindowsFormApp\bin\Debug\ApiConnect_WindowsFormApp.exe
+C:\Users\gb141\source\repos\ApiConnect_WindowsFormApp\ApiConnect_WindowsFormApp\bin\Debug\ApiConnect_WindowsFormApp.pdb
+C:\Users\gb141\source\repos\ApiConnect_WindowsFormApp\ApiConnect_WindowsFormApp\obj\Debug\ApiConnect_WindowsFormApp.csprojAssemblyReference.cache
+C:\Users\gb141\source\repos\ApiConnect_WindowsFormApp\ApiConnect_WindowsFormApp\obj\Debug\ApiConnect_WindowsFormApp.Form1.resources
+C:\Users\gb141\source\repos\ApiConnect_WindowsFormApp\ApiConnect_WindowsFormApp\obj\Debug\ApiConnect_WindowsFormApp.Properties.Resources.resources
+C:\Users\gb141\source\repos\ApiConnect_WindowsFormApp\ApiConnect_WindowsFormApp\obj\Debug\ApiConnect_WindowsFormApp.csproj.GenerateResource.cache
+C:\Users\gb141\source\repos\ApiConnect_WindowsFormApp\ApiConnect_WindowsFormApp\obj\Debug\ApiConnect_WindowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\gb141\source\repos\ApiConnect_WindowsFormApp\ApiConnect_WindowsFormApp\obj\Debug\ApiConnect_WindowsFormApp.exe
+C:\Users\gb141\source\repos\ApiConnect_WindowsFormApp\ApiConnect_WindowsFormApp\obj\Debug\ApiConnect_WindowsFormApp.pdb

@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="shortcut icon" type="image/png" href="ico/favicon.png" />
+    <script src="Scripts/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+    <a id="pullApi">click here for pull the data from api and change to this text</a>
+    <script>
+        const xhr = new XMLHttpRequest();
+        xhr.open("GET", "http://localhost:8090/api/cities");
+        xhr.send();
+        xhr.onreadystatechange = function () {
+            if (this.readyState === 4) {
+                if ((this.status == 200) && (this.status < 300)) {
+                    //alert(this.responseText)
+                    var x = document.getElementById("pullApi");
+                    x.onclick = function () {
+                        x.innerText = xhr.responseText;
+                    }
+                }
+            }
+        }
+    </script>
+</body>
+
+</html>
